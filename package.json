@@ -1,6 +1,7 @@
 {
-  "name": "@daan-ef2/template-commerce",
-  "version": "1.0.0",
+  "name": "@ef2/template-commerce",
+  "private": false,
+  "version": "0.0.1",
   "description": "Strapi Commerce starter",
   "repository": {
     "type": "git",
