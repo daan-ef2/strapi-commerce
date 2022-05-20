@@ -1,4 +1,7 @@
 {
+  "global": {
+    "siteName": "Strapi Commerce",
+  },
   "menus": [
     {
       "id": 1,

@@ -1,0 +1,15 @@
+{
+  "name": "template-commerce",
+  "version": "1.0.0",
+  "description": "Strapi Commerce starter",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daan-ef2/strapi-commerce.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daan-ef2/strapi-commerce/issues"
+  },
+  "homepage": "https://github.com/daan-ef2/strapi-commerce#readme"
+}
